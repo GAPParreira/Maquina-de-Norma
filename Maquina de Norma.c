@@ -75,15 +75,6 @@ int main()
             }
             printf("\nO Resultado e %d\n",A);
             break;
-        case '/':
-            while(B>0)
-            {
-                    ADC(A);
-                    SUB(B);
-                    printf("-------Registrador A:%d -------Registrador B:%d -------\n",A,B);
-                    system("pause");
-            }
-            break;
     }
 }
 
