@@ -1,0 +1,11 @@
+Aprendendo a implementar a maquina de norma.
+
+Para executar o arquivo C utilize o CodeBlocks
+1-Deve colocar a operacao que deseja fazer.
+
+2-Entre com os valores .
+
+3-As operacoes sao de apenas 2 elementos.
+	Ex: 1 + 2
+	    2 * 5
+	    9 - 6
